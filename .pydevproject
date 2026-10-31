@@ -6,9 +6,9 @@
     <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
     
     <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-        <path>/${PROJECT_DIR_NAME}/Python3_FGL</path>
-        <path>/${PROJECT_DIR_NAME}/Python3_Handbuch</path>
-        <path>/${PROJECT_DIR_NAME}/tryout</path>
-    </pydev_pathproperty>
+<path>/${PROJECT_DIR_NAME}/Python3_HandbuchFGL</path>
+<path>/${PROJECT_DIR_NAME}/Python3_Handbuch</path>
+<path>/${PROJECT_DIR_NAME}/tryout</path>
+</pydev_pathproperty>
     
 </pydev_project>
