@@ -1,0 +1,7 @@
+from libc.stdlib cimport qsort
+
+cdef int compare(const void* a, const void* b) noexcept nogil:
+   return (<int*>a)[0] - (<int*>b)[0]
+
+def sortiere(int[:] werte):
+    qsort(&werte[0], len(werte), sizeof(int), compare)

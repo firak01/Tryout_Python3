@@ -1,0 +1,7 @@
+#: main.py:9
+msgid "Please enter a value: "
+msgstr "Bitte geben Sie einen Wert ein: "
+
+#: main.py:13
+msgid "The random choice is {}"
+msgstr "Die Zufallswahl ist: {}"
