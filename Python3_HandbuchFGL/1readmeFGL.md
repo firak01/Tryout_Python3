@@ -1,5 +1,7 @@
-# TryoutPython
+# TryoutPython3
 Python Tryouts
+Verwende Python 3 - Damit sind die Beispiele nicht 1:1 mit Jython 2.7 und Python 2 nutzbar
+
 
 u.a. ergänzende Beispiele für Kapitel des Buchs "Python 3 - Das umfassende Handbuch" (6. Auflage)
 
@@ -19,7 +21,7 @@ Entwicklung unter alter Eclipse Version: Oxygen.3a (4.7.3a).<br>
 Daher Plugin pyDev in der Version: 6.3.2<br>
 Daher Python Version: 3.6.8<br>
 
-Aufgrund der dann im Buch verwendeten neuere Syntax, habe ich dann einige Beispiele anpassen müssen.
+Aufgrund der dann im Buch verwendeten neueren Syntax, habe ich dann einige Beispiele anpassen müssen.
 
 ------------------------------
 Plugin mylin.Wikitext<br>
