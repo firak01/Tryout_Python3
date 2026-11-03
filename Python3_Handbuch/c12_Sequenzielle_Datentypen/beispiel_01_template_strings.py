@@ -1,5 +1,13 @@
 #!/usr/bin/env python
 
+'''
+
+Merke:
+Das Modul Interpolation gibt es wohl unter Python 3.4.4 nicht
+pyDev nutzt aber Python 3.4.4
+
+'''
+
 import datetime
 from string.templatelib import Interpolation
 
