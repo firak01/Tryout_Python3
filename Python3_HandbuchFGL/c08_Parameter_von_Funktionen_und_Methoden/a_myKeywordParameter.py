@@ -1,4 +1,7 @@
 '''
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
+
 Created on 18.10.2026
 
 In Python gibt es das Konzept feste Parameter zu übergeben, die dann unabhängig von der Position im Methodenaufruf sind.

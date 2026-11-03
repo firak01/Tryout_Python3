@@ -1,4 +1,10 @@
 '''
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
+
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
+
 Created on 17.10.2026
 
 Manche Variablen / Referenzen werden nicht mehr benötigt.

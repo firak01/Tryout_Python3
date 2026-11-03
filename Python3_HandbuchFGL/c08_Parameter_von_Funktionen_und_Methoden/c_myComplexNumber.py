@@ -1,4 +1,7 @@
 '''
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
+
 Created on 18.10.2026
 
 In Python gibt es die Möglichkeit komplexe Zahlen zu erzeugen und zu verwenden.

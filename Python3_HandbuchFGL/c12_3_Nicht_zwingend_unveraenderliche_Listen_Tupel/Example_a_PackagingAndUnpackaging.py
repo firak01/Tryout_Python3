@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 '''
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
 
 Merke:
 Praktisches Beispiel für Tupel Packaging und Entpackaging mit * und Funktionen 

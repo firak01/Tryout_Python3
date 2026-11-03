@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 
 '''
+Angeregt aus dem Buch: "Python3: Das umfassende Handbuch"
+In den Materialien zum Buch fehlende Beispiele zu einigen Kapiteln.
+
 "Extended Unpackaging" gibt es erst ab Python3.
 
 Startet man das hier als Jython-Projekt mit Python2, bekommt man z.B. folgenden Fehler:
